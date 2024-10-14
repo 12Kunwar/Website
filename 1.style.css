@@ -1,0 +1,142 @@
+.h1{
+    color: skyblue;
+    margin-top: 30px;
+    margin-left: 31px;
+}
+
+.p{
+    margin-left: 250px;
+    font-size: 3pc;
+}
+
+#manu{
+    height: 50px;
+    background-color: azure;
+    padding: 27px 10px 0 3px;
+    
+}
+
+#manu a:last-child{
+    border-right: none;
+}
+#manu a{
+    float: left;
+    padding:0 35px;
+    height: 30px;
+    border-right: solid  black;
+}
+#manu a{
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size: 17px;
+    color: salmon;
+    -webkit-transition: font-size 0.3s ease;
+    -moz-transition: font-size 0.3s ease;
+    -o-transition: font-size 0.3s ease;
+    -ms-transition: font-size 0.3s ease;
+    transition: font-size 0.3s ease;
+}
+
+#manu a:hover{
+    font-size: 20px;
+    font-weight: bold;
+    color:#4b2f2f;
+}
+
+.p1{
+    color: white;
+    margin-left: 350px;
+    background-color: pink;
+    margin-top: 20px;
+    font-size: 20px;
+    padding: 10px;
+}
+.p12{
+    color: white;
+    margin-right: 350px;
+    margin-top: 20px;
+    font-size: 20px;
+    background-color: pink;
+    padding: 10px;
+    
+}
+
+.image{
+    text-align: right;
+    margin-right: 220px;
+    position: sticky;
+}
+
+.blog{
+    margin-right: 400px;
+    margin-left: 20px;
+    background-color: antiquewhite;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.h2{
+    text-align: center;
+    font-size: 25px;
+}
+
+.p3{
+    margin-top: 25px;
+    background-color: antiquewhite;
+    margin-left: 400px;
+    font-size: 20px;
+    margin-right: 20px;
+    padding: 10px;
+}
+.container{
+    background-color: hotpink;
+}
+
+.h3{
+    text-align: center;
+    font-size: 25px;
+}
+
+.p4{
+    background-color: beige;
+    padding: 10px;
+}
+
+.cloths{
+    text-align: center;
+    font-size: 28px;
+}
+
+.h4{
+    margin-left: 200px;
+    font-size: 21px;
+}
+
+.h5{
+    text-align: center;
+    font-size: 21px;
+}
+
+.h6{
+    text-align: right;
+    margin-right: 200px;
+    font-size: 21px;
+}
+
+.n{
+   font-size: 22px;
+}
+
+.h7{
+    background-color: rgb(141, 100, 100);
+    margin-top: 20px;
+    margin-bottom: 300px;
+    font-size: 20px;
+    text-emphasis-color: rgb(19, 29, 42);
+}
+
+.img{
+    text-align-last: left;
+}
+
+
